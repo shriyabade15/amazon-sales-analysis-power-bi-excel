@@ -197,5 +197,5 @@ YTD Reviews = TOTALYTD(SUM(Sales[Reviews]), 'Calendar'[Date])
 
 **Shruti Bade**  
 Data Analyst  
-📧 Email: shrutibade12@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/shruti-bade)  
+📧 Email: shriyabade15@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/shriyabade)  
